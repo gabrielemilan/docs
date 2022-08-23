@@ -26,6 +26,8 @@ spec:
       value: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
     - name: region
       value: "us-east-1"
+    # - name: consumerID # Optional: defaults to the app's own ID
+    #   value: "{identifier}" 
     # - name: endpoint # Optional. 
     #   value: "http://localhost:4566"
     # - name: sessionToken  # Optional (mandatory if using AssignedRole, i.e. temporary accessKey and secretKey)
